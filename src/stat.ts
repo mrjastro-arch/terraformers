@@ -23,7 +23,7 @@ class Stats {
         this.won = false
         this.wave = 1
         this.waveStartTime = this.time = 0
-        this.score = 0
+        this.score = 1000
         this.hero = new Hero1()
     }
 

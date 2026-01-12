@@ -25,11 +25,11 @@ import { powerupMenu } from "../scene"
 import { playPowerup } from "../sound"
 import { nearestMobPos } from "../mob"
 
-const INIT_HEALTH_CAP = 100
+const INIT_HEALTH_CAP = 1000
 const INIT_HERO_SPEED = 0.04
-const INIT_PICKUP_RADIUS = 15
+const INIT_PICKUP_RADIUS = 35
 const INIT_LIGHT_RADIUS = 50
-const INIT_LEVEL_XP = 50
+const INIT_LEVEL_XP = 5
 const LEVEL_XP_CAP_INC = 70
 
 const COLLISION_BOX_SIZE = 8

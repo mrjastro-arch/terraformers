@@ -12,7 +12,7 @@ class Stats {
     time = 0
     hour = 0
     darkness = 0
-    lightRadius = 0
+    lightRadius = 15
     waveStartTime = 0
     wave: WavesKey = 1
     hero!: Hero
